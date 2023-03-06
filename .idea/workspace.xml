@@ -4,50 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="b6a920b4-bcf8-45b9-bdd0-cfe0fa653885" name="Changes" comment="commit 5">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/gemini/CommonUtils/utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/gemini/CommonUtils/utils.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/gemini/StepDefinition/stepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/gemini/StepDefinition/stepDefinitions.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/adminScreen20.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/adminScreen20.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/adminScreen21.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/adminScreen21.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/adminScreen22.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/adminScreen22.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/adminScreen23.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/adminScreen23.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/adminScreen24.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/adminScreen24.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/adminScreen25.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/adminScreen25.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/adminApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/adminApi.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/azureApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/azureApi.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/bucketApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/bucketApi.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/culpritApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/culpritApi.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/dashBoardApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/dashBoardApi.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/downloadApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/downloadApi.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/getApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/getApi.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/getDataSuite.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/getDataSuite.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/gitApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/gitApi.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/postRuleApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/postRuleApi.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/suiteApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/suiteApi.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/features/testApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/testApi.feature" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/gemjar-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/gemjar-config.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/gitSample4.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/gitSample4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/suiteApi.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/suiteApi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/suiteApi2.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/suiteApi2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/suiteApi3.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/suiteApi3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/suiteApi4.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/suiteApi4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/suiteApi5.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/suiteApi5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/suiteApi6.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/suiteApi6.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testApi.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApi.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testApi2.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApi2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testApi3.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApi3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testApi4.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApi4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testApi5.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApi5.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testApi6.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApi6.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testApi7.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApi7.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testApiGemjar.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApiGemjar.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testApiGemjar2.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApiGemjar2.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testApiGemjar3.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApiGemjar3.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testApiGemjar4.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApiGemjar4.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/testApiGemjar5.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApiGemjar5.json" afterDir="false" />
-    </list>
+    <list default="true" id="b6a920b4-bcf8-45b9-bdd0-cfe0fa653885" name="Changes" comment="commit 5" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -72,17 +29,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Projects/gemjar-main/gemjar&quot;,
-    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
-    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
-    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Projects/prod/apiAutomation_prod",
+    "project.structure.last.edited": "Modules",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="Cucumber Java.Scenario: API to create new Project (admin screen)">
     <configuration name="Scenario: API to create new Project (admin screen)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
