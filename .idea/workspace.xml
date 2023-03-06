@@ -1,0 +1,332 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="b6a920b4-bcf8-45b9-bdd0-cfe0fa653885" name="Changes" comment="commit 5">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/gemini/CommonUtils/utils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/gemini/CommonUtils/utils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/com/qa/gemini/StepDefinition/stepDefinitions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/qa/gemini/StepDefinition/stepDefinitions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/adminScreen20.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/adminScreen20.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/adminScreen21.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/adminScreen21.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/adminScreen22.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/adminScreen22.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/adminScreen23.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/adminScreen23.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/adminScreen24.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/adminScreen24.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/adminScreen25.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/adminScreen25.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/adminApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/adminApi.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/azureApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/azureApi.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/bucketApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/bucketApi.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/culpritApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/culpritApi.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/dashBoardApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/dashBoardApi.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/downloadApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/downloadApi.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/getApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/getApi.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/getDataSuite.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/getDataSuite.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/gitApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/gitApi.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/postRuleApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/postRuleApi.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/suiteApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/suiteApi.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/features/testApi.feature" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/features/testApi.feature" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/gemjar-config.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/gemjar-config.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/gitSample4.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/gitSample4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/suiteApi.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/suiteApi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/suiteApi2.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/suiteApi2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/suiteApi3.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/suiteApi3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/suiteApi4.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/suiteApi4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/suiteApi5.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/suiteApi5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/suiteApi6.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/suiteApi6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testApi.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApi.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testApi2.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApi2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testApi3.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApi3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testApi4.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApi4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testApi5.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApi5.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testApi6.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApi6.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testApi7.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApi7.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testApiGemjar.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApiGemjar.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testApiGemjar2.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApiGemjar2.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testApiGemjar3.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApiGemjar3.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testApiGemjar4.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApiGemjar4.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/testApiGemjar5.json" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/testApiGemjar5.json" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="useMavenConfig" value="true" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="2KDNWftqIaFls5LeBgFJpyUxJLM" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Projects/gemjar-main/gemjar&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Modules&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
+  }
+}</component>
+  <component name="RunManager" selected="Cucumber Java.Scenario: API to create new Project (admin screen)">
+    <configuration name="Scenario: API to create new Project (admin screen)" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/adminApi.feature" />
+      <option name="GLUE" value="com.gemini.generic.bdd com.gemini.generic.feature.utils com.qa.gemini.StepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="GemEcoSystem-API-BDD" />
+      <option name="NAME_FILTER" value="^API to create new Project \(admin screen\)$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^API to create new Project \(admin screen\)$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: API to create new Project (admin screen)" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Api to add company Admin when bridge token is wrong" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/adminApi.feature" />
+      <option name="GLUE" value="com.gemini.generic.bdd com.gemini.generic.feature.utils com.qa.gemini.StepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="GemEcoSystem-API-BDD" />
+      <option name="NAME_FILTER" value="^Api to add company Admin when bridge token is wrong$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Api to add company Admin when bridge token is wrong$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Api to add company Admin when bridge token is wrong" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Api to add company Admin when username is left as empty" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/adminApi.feature" />
+      <option name="GLUE" value="com.gemini.generic.bdd com.gemini.generic.feature.utils com.qa.gemini.StepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="GemEcoSystem-API-BDD" />
+      <option name="NAME_FILTER" value="^Api to add company Admin when username is left as empty$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Api to add company Admin when username is left as empty$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Api to add company Admin when username is left as empty" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Api to remove company Admin when user is not super-admin" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/adminApi.feature" />
+      <option name="GLUE" value="com.gemini.generic.bdd com.gemini.generic.feature.utils com.qa.gemini.StepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="GemEcoSystem-API-BDD" />
+      <option name="NAME_FILTER" value="^Api to remove company Admin when user is not super\-admin$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Api to remove company Admin when user is not super\-admin$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Api to remove company Admin when user is not super-admin" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Scenario: Api to remove company Admin when username is left as empty" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
+      <option name="CUCUMBER_CORE_VERSION" value="5" />
+      <option name="FILE_PATH" value="$PROJECT_DIR$/src/main/resources/features/adminApi.feature" />
+      <option name="GLUE" value="com.gemini.generic.bdd com.gemini.generic.feature.utils com.qa.gemini.StepDefinition" />
+      <option name="MAIN_CLASS_NAME" value="io.cucumber.core.cli.Main" />
+      <module name="GemEcoSystem-API-BDD" />
+      <option name="NAME_FILTER" value="^Api to remove company Admin when username is left as empty$" />
+      <option name="PROGRAM_PARAMETERS" value=" --plugin org.jetbrains.plugins.cucumber.java.run.CucumberJvm5SMFormatter --name &quot;^Api to remove company Admin when username is left as empty$&quot;" />
+      <option name="SUGGESTED_NAME" value="Scenario: Api to remove company Admin when username is left as empty" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_WORKING_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="io.cucumber.core.cli.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Cucumber Java.Scenario: API to create new Project (admin screen)" />
+        <item itemvalue="Cucumber Java.Scenario: Api to add company Admin when bridge token is wrong" />
+        <item itemvalue="Cucumber Java.Scenario: Api to remove company Admin when username is left as empty" />
+        <item itemvalue="Cucumber Java.Scenario: Api to add company Admin when username is left as empty" />
+        <item itemvalue="Cucumber Java.Scenario: Api to remove company Admin when user is not super-admin" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b6a920b4-bcf8-45b9-bdd0-cfe0fa653885" name="Changes" comment="" />
+      <created>1673505226803</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1673505226803</updated>
+    </task>
+    <task id="LOCAL-00001" summary="With gemecosystem2">
+      <created>1673613404375</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1673613404375</updated>
+    </task>
+    <task id="LOCAL-00002" summary="With gemecosystem2 new">
+      <created>1673873586868</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1673873586868</updated>
+    </task>
+    <task id="LOCAL-00003" summary="With gemecosystem2 new">
+      <created>1673873699156</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1673873699156</updated>
+    </task>
+    <task id="LOCAL-00004" summary="push for jenkins">
+      <created>1673947543776</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1673947543776</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit 5">
+      <created>1674491246339</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1674491246340</updated>
+    </task>
+    <task id="LOCAL-00006" summary="commit 5">
+      <created>1674491413727</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1674491413727</updated>
+    </task>
+    <task id="LOCAL-00007" summary="commit 5">
+      <created>1674548108518</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1674548108518</updated>
+    </task>
+    <task id="LOCAL-00008" summary="commit 5">
+      <created>1674548192193</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1674548192193</updated>
+    </task>
+    <task id="LOCAL-00009" summary="commit 5">
+      <created>1674552774804</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1674552774804</updated>
+    </task>
+    <task id="LOCAL-00010" summary="commit 5">
+      <created>1675931442913</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1675931442913</updated>
+    </task>
+    <task id="LOCAL-00011" summary="commit 5">
+      <created>1676614142210</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1676614142211</updated>
+    </task>
+    <task id="LOCAL-00012" summary="commit 5">
+      <created>1677142634692</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1677142634692</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="With gemecosystem2" />
+    <MESSAGE value="With gemecosystem2 new" />
+    <MESSAGE value="push for jenkins" />
+    <MESSAGE value="commit 5" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit 5" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/gemecosystem/gemjar/gemjar-core/1.1.6/gemjar-core-1.1.6.jar!/com/gemini/generic/reporting/GemEcoUpload.class</url>
+          <line>69</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/gemecosystem/gemjar/gemjar-core/1.1.6/gemjar-core-1.1.6.jar!/com/gemini/generic/reporting/RunnableClass.class</url>
+          <line>37</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>jar://$MAVEN_REPOSITORY$/com/gemecosystem/gemjar/gemjar-test/2.0.0/gemjar-test-2.0.0-sources.jar!/com/gemini/generic/reporting/GemEcoUpload.java</url>
+          <line>82</line>
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
